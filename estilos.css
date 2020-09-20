@@ -377,6 +377,17 @@ width: 90%;
 .contenedor p {
 margin: 10px;
 }
+.Nuevo {
+margin-top: -18px;
+width: 54px;
+background: #ff3535;
+border: none;
+border-radius: 10px 10px 10px 10px;
+font-family: 'Raleway', sans-serif;
+}
+.redes {
+width: 100%;
+}
 @media screen and (max-width:400px) {
     .titulo,
     .textos-hero h1 {
